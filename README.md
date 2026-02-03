@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER IMAGE -->
-  <img src="uploaded_media_1769278014163.jpg" width="100%" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
+  <img src="header.png" width="100%" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
 
   <br />
   <br />
@@ -57,9 +57,9 @@
       </td>
       <td width="45%" align="center" style="border: none;">
         <!-- STATS CARD - Using 'graywhite' or 'prussian' or 'nord' for masculine feel. -->
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff" />
+        <img src="https://github-readme-stats.vercel.app/api?username=adrianocaio&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff" />
         <br>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianocaio&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff" />
       </td>
     </tr>
   </table>
@@ -142,7 +142,7 @@
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/adrianocaio">
      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="35" />
   </a>
 </div>
