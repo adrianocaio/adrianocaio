@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER IMAGE -->
-  <img src="header.png.jpeg" width="100%" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
+  <img src="header.png" width="100%" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
 
   <br />
   <br />
